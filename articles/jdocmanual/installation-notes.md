@@ -7,62 +7,87 @@ reference form with an Index to all articles at the left, the selected
 article content in the centre and a list of headings in the article to
 the right. It can be used also for other custom documentation.
 
-The data for Jdocmanual are located on GitHub in GitHub Flavoured
-Markdown format. Four manuals are available in separate GitHub
-repositories. You can choose which to install. Most
-of the original content came from the docs.joomla.org MediaWiki
+Version 4 of Jdocmanual is not compatible with previous versions. Any previous
+version should be uninstalled before installing this new version.
+
+## Data Sets
+
+The data sets for Jdocmanual are located on GitHub in GitHub Flavoured
+Markdown format. Four manuals are available, some in several languages, in
+separate GitHub repositories. For example, the source data for the User
+Manual in English is https://github.com/ceford/cefjdemos-data-jdm-user-en
+You can choose which manual and data sets to install in addition to English,
+which is mandatory.
+
+Most of the original content came from the docs.joomla.org MediaWiki
 installation and many of the images used here are delivered from that
 source.
 
-Version 3 of Jdocmanual is not compatible with previous versions. Any previous
-version should be uninstalled before installing this new version.
-
 ## Installation In brief
-- Install one or more data sets. **They are not Joomla extensions!**
-  - **developer:** Information for Joomla developers.<br>
-  source: https://github.com/ceford/cefjdemos-data-jdm-developer
-  - **docs:** Information for those contributing to Joomla Documentation.<br>
-  source: https://github.com/ceford/cefjdemos-data-jdm-docs
-  - **help:** The Help screens used for the Administrator pages.<br>
-  source: https://github.com/ceford/cefjdemos-data-jdm-help
-  - **user:** Information for Joomla users with limited familiarity with
-  HTML, CSS and JavaScript.<br>
-  source: https://github.com/ceford/cefjdemos-data-jdm-user<br>
-- Save a data ZIP file in a folder ending in `/manuals/` outside your web tree.
-  Example: `/home/username/data/manuals/`<br>
-  An unzipped folder should be renamed to the short name of the manual: one
-  of `developer`, `docs`, `help` or `user`. You may then delete the ZIP file.
-  Remember the location of your manuals folder!
-- Install Jdocmanual on your Joomla site. You can obtain an installable ZIP
-  file from: https://github.com/ceford/cefjdemos-com-jdm/archive/refs/heads/main.zip.
-  Save it in your Downloads folder and install it in the same way as any
-  other Joomla extension.
-- Select the Components/Jdocmanual menu item in the Joomla Administrator menu.
-  Then select the `Options` button in the Toolbar.
-- Set the dataset path and Joomla installation subfolder (if your installation
-  is not in your website root). `Save & Close`.
-- Build your database articles and menus: select the
-  `Jdocmanual/Sources` menu item, then the title of the manual you have
-  installed. Use the `Actions` button to `Update HTML`, then `Update Menus`.
-  The order is important!
-  The Help manual also has an option to `Update Proxy` to build a proxy
-  server. Change the Manual's `Status` to `Published`. `Save & Close`.
-  Repeat for each manual you wish to use.
-- If you wish to use the command line for data maintenance you need to
-  install the Jdocmanualcli plugin.
-  Source: https://github.com/ceford/j4xdemos-plg-jdocmanualcli
 
+There are full instructions in the [Jdocmanual Repository README](https://github.com/ceford/cefjdemos-com-jdm) file. This brief outline covers installation of the User
+Manual in English and German using the git clone method. If you do not have git
+you can download the files from the repositories in ZIP format and unpack them.
+
+1. Create a file structure on your platform that is outside your web tree but
+   writable by your web server. For example, for the User manual:<br>
+   `/home/username/data/manuals/user/`<br>
+   The `/manual/user/` part of the path is mandatory.
+2. Change into this directory and clone the Markdown files:<br>
+    `git clone https://github.com/ceford/cefjdemos-data-jdm-user-en.git`<br>
+    `git clone https://github.com/ceford/cefjdemos-data-jdm-user-de.git`
+3.  Rename the created directories to the language names:<br>
+    `mv cefjdemos-data-jdm-user-en en`<br>
+    `mv cefjdemos-data-jdm-user-de de`
+4.  Install Jdocmanual on your Joomla site. You can obtain an installable ZIP
+    file from: https://github.com/ceford/cefjdemos-com-jdm/archive/refs/heads/main.zip.
+    Save it in your Downloads folder and install it in the same way as any
+    other Joomla extension.
+5.  Install the Command Line Plugin obtainable is a ZIP file:<br>
+    `https://github.com/ceford/cefjdemos-plg-jdocmanualcli/archive/refs/heads/main.zip`
+6.  Select the Components/Jdocmanual menu item in the Joomla Administrator menu.
+    Then select the `Options` button in the Toolbar.
+    - Set the dataset path and Joomla installation subfolder (if your installation
+      is not in your website root). `Save & Close`.
+7.  Build your database articles and menus:
+    - select the `Jdocmanual/Sources` menu item, then the title of the manual
+      you have installed. Use the `Actions` button to `Update HTML`, then
+      `Update Menus`. The order is important! The articles build process takes
+      4 to 6 minutes on a fast workstation or server!
+    - Repeat for each manual you wish to use.
+8.  If you prefer to use the command line for data maintenance use the
+    following commands in sequence:<br>
+    ```
+    cd /path/to/joomla/web/root/cli
+    php joomla.php jdocmanual:action buildarticles user en
+    php joomla.php jdocmanual:action buildmenus user en
+    php joomla.php jdocmanual:action buildarticles user de
+    php joomla.php jdocmanual:action buildmenus user de
+    ```
 Now select the Jdocmanual/Manuals menu item in the Administrator menu. All
 being well you should see Jdocmanual with the default Manual and Article
 already selected.
 
 ## Help Proxy Server
 
-If you would like to serve your own Help files select the Jdocmanual/Sources
-menu item in the Administrator interface and then the title of the Help manual.
-Select `Update Proxy` from the `Actions` button in the Toolbar. The process
-creates subfolders in a /proxy folder in the root of your Joomla
-installation. They contain HTML files generated from the help HTML files
+The proxy server is used in conjunction with the Help Manual to deliver the
+help pages seen on selection of any Toolbar Help button:
+
+```
+   mkdir /home/username/data/manuals/help
+   cd /home/username/data/manuals/help
+   git clone https://github.com/ceford/cefjdemos-data-jdm-help-en.git
+   mv cefjdemos-data-jdm-help-en en
+   cd /path/to/joomla/web/root/cli
+   php joomla.php jdocmanual:action buildarticles help en
+   php joomla.php jdocmanual:action buildmenus help en
+   php joomla.php jdocmanual:action buildproxy help en
+```
+There is an `Update Proxy` option in the Toolbar `Actions` list for the
+Jdocmanual: Edit Source page for the Help Manual.
+
+The build process creates subfolders in a /proxy folder in the root of the
+Joomla installation. They contain HTML files generated from the help HTML files
 stored in the database.
 
 Then edit your configuration.php file to remove the domain of the
@@ -94,10 +119,8 @@ the full width of the page may be used for content.
 If you wish to allow others to help maintain content you need to create
 two User Groups:
 
-- **JDM Author**: allowed to edit content in English and other
-languages.
-- **JDM Publisher**: allowed to commit and publish
-updated content.
+- **JDM Author** Allowed to edit content in English and other languages.
+- **JDM Publisher** Allowed to commit and publish updated content.
 
 The **JDM Author** group should have Public as its parent. The
 **JDM Publisher** group should have **JDM Author** as its
@@ -112,7 +135,7 @@ Author` to the User Groups with Viewing Access.
 ### Global Options
 
 In the Global Options form select the Permissions tab and then the
-**JDM Author** item. Set Administrator login to Allowed.
+**JDM Author** item. Set Administrator login to *Allowed*.
 
 ### Jdocmanual Options
 

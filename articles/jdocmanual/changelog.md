@@ -1,5 +1,11 @@
 <!-- Filename: Changelog / Display title: Changelog -->
 
+## Version 4.0.0
+
+- The Manual data are now in separate repositories for each Manual and each
+  language. All Manuals except the Documenter Manual are available in
+  8 languages.
+
 ## Version 3.0.0
 
 - The data for the four default manuals are now in separate repositories.

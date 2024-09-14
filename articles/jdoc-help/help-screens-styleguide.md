@@ -91,9 +91,9 @@ Screenshot showing the overall look of the screen.
 - The filename should follow our
   <a href="https://docs.joomla.org/JDOC:Image_naming_convention"
   class="mw-redirect" title="JDOC:Image naming convention">standard naming
-  conventions</a> for help screens.  
+  conventions</a> for help screens.
   **Help-3x-**
-  **-screen-en.png**.  
+  **-screen-en.png**.
   For example, a screenshot of the Article Manager screen would be
   **\[\[File:Help-3x--content-article-manager-screen-en.png\]\]**.
 - The filename should always include a language code at the end of the
@@ -196,7 +196,7 @@ class="mw-redirect"
 title="Help4.x:Components Banners Categories">Help4.x:Components Banners
 Categories</a>.
 
-### Quick Tips
+### Tips
 
 As the name suggests, this section should include tips, hints,
 suggestions that can assist a user in performing tasks involving the
@@ -215,7 +215,7 @@ links without very good reason.
 - Overview of <a
   href="https://docs.joomla.org//docs.joomla.org/index.php?title=Special:Allpages&amp;namespace=136"
   class="external text" target="_blank" rel="noreferrer noopener">Help
-  screen chunks</a>  
+  screen chunks</a>
   For usage information and examples see the following templates:
   - {{[colheader](https://docs.joomla.org/Template:Colheader "Template:Colheader")\|Column
     name}} includes one of the *Help screen column header XYZ* chunks
