@@ -99,7 +99,7 @@ select the image most appropriate for the device resolution and capabilities.
 ## Local Location of Sources
 
 The manuals folder must be somewhere in your file space but not in
-your web tree. For example `/home/username/manuals`.
+your web tree. For example `/home/username/data/manuals`.
 
 The data originally came from the Joomla Documentation MediaWiki site. The
 conversion process was rather tortuous and not so easily repeated! An important
