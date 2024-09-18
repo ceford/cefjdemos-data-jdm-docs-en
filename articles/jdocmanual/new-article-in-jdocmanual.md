@@ -1,4 +1,4 @@
-<!-- Display title: New Article in Jdocmanual -->
+<!-- Filename: New_Article_in_Jdocmanual / Display title: New Article in Jdocmanual -->
 
 ## Creating a New Article
 

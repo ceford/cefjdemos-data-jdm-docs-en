@@ -1,4 +1,4 @@
-<!-- Display title: Edit Article in Jdocmanual -->
+<!-- Filename: Edit_Article_in_Jdocmanual / Display title: Edit Article in Jdocmanual -->
 
 ## Updating an Article
 
