@@ -32,7 +32,7 @@ you can download the files from the repositories in ZIP format and unpack them.
 1. Create a file structure on your platform that is outside your web tree but
    writable by your web server. For example, for the User manual:<br>
    `/home/username/data/manuals/user/`<br>
-   The `/manual/user/` part of the path is mandatory.
+   The `/manuals/user/` part of the path is mandatory.
 2. Change into this directory and clone the Markdown files:<br>
     `git clone https://github.com/ceford/cefjdemos-data-jdm-user-en.git`<br>
     `git clone https://github.com/ceford/cefjdemos-data-jdm-user-de.git`

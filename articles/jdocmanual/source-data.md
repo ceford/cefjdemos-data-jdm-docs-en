@@ -91,10 +91,11 @@ to accommodate more columns in list views.
 ## Image Sizes
 
 During the article build process, each original image leads to the creation of
-six additional images at resolutions of 576, 768, 992 and 1200 pixels wide in
+additional images at resolutions of 576, 768, 992 and 1200 pixels wide in
 png or jpg format, depending on the original, and webp format. The image links
 in the markdown files are replaced with picture tags that allow the browser to
-select the image most appropriate for the device resolution and capabilities.
+select the image most appropriate image for the device resolution and 
+capabilities.
 
 ## Local Location of Sources
 
