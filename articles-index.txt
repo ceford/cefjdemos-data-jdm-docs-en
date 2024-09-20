@@ -4,6 +4,7 @@ jdoc-reference=jedl.md=https://docs.joomla.org/JEDL
 jdocmanual=introduction-to-jdocmanual.md=jdocmanual?manual=docs&heading=jdocmanual&filename=introduction-to-jdocmanual.md
 jdocmanual=installation-notes.md=jdocmanual?manual=docs&heading=jdocmanual&filename=installation-notes.md
 jdocmanual=source-data.md=jdocmanual?manual=docs&heading=jdocmanual&filename=source-data.md
+jdocmanual=how-to-contribute.md=jdocmanual?manual=docs&heading=jdocmanual&filename=how-to-contribute
 jdocmanual=markdown.md=jdocmanual?manual=docs&heading=jdocmanual&filename=markdown.md
 jdocmanual=edit-in-vscode.md=jdocmanual?manual=docs&heading=jdocmanual&filename=edit-in-vscode.md
 jdocmanual=edit-article-in-jdocmanual.md=jdocmanual?manual=docs&heading=jdocmanual&filename=edit-article-in-jdocmanual.md

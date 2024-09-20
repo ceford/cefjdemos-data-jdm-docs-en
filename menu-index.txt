@@ -6,6 +6,7 @@ heading=jdocmanual=Jdocmanual
 docs=jdocmanual=introduction-to-jdocmanual.md
 docs=jdocmanual=installation-notes.md
 docs=jdocmanual=source-data.md
+docs=jdocmanual=how-to-contribute.md
 docs=jdocmanual=markdown.md
 docs=jdocmanual=edit-in-vscode.md
 docs=jdocmanual=edit-article-in-jdocmanual.md
