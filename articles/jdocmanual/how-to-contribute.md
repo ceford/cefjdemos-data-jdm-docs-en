@@ -229,6 +229,28 @@ follows it should be translated.
 If anything is wrong with the line the translated article will not be present
 in the output and the English equivalent will be substituted.
 
+### Test with Jdocmanual
+
+The experts in the Joomla Forums recommend installation of a local development
+environment for serious Joomla users. It allows testing of new versions, new
+extensions and new designs or ideas before installation on a public server. If
+you have such a local test installation now would be a good time to install
+your own copy of Jdocmanual. You can get an installable 
+[ZIP](https://github.com/ceford/cefjdemos-com-jdm/archive/refs/heads/main.zip)
+and install it just like any other Joomla extension. Building the database
+tables takes a few minutes on first use but it is much quicker when updating
+for just one changed file.
+
+Check your changes in the Administrator Manual view. Occasionally something
+goes wrong that is not noticed. Most common are mistyping the filename when
+creating a new Markdown file or an error in the first line containing the
+HTML comment with the Help link and Display name. That may result in an error
+during rebuilding of the database, Jdocmanual delivering a page in English
+rather than your translation or an untranslated heading and menu link.
+
+If you don't have a local installation you can skip this step. A reviewer
+will check your changes but may miss the same problems.
+
 ### Commit
 
 Take a break! Come back and read through the Preview of the article again. If
