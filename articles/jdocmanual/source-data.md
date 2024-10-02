@@ -30,7 +30,7 @@ Ancillary data used for importing the data into Jdocmanual are stored in
 txt or ini files. The first level structure of each repository is like this:
 
 ```
-cefjdemos-data-jdm-users-en
+cefjdemos-data-jdm-user-en
     /articles
     /images
     /LICENCE
