@@ -147,8 +147,10 @@ of the missing translation.
 
 ### Create or take an issue
 
-If you want to work on a problem go to the [Issues](https://github.com/ceford/cefjdemos-data-jdm-help-en/issues) page for the language you are working on to see whether the problem has
-already been reported. If not, create
+If you want to work on a problem go to the GitHub *Issues* page for the 
+language you are working on to see whether the problem has already been 
+reported (just add */issues* to the repository URL as in this example:
+`https://github.com/ceford/cefjdemos-data-jdm-help-en/issues`). If not, create
 a new issue with the item subdirectory and filename mentioned in the title.
 For example: `banners/banners.md needs grammar corrections`. If an issue
 already exists but nobody appears to be working on it and you want to fix it
