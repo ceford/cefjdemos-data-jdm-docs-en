@@ -62,7 +62,7 @@ git version 2.39.3 (Apple Git-146)
 
 ## Install VSCode and/or VSCodium
 
-There is a separate article on [VSCode](jdocmanual?article=developer/getting-started/visual-studio-code-primer). It takes almost no time at all to install it on any
+There is a separate [Jdocmanual article on VSCode](jdocmanual?article=developer/getting-started/visual-studio-code-primer). It takes almost no time at all to install on any
 modern platform from the following sources:
 
 - [VSCode](https://code.visualstudio.com/)
