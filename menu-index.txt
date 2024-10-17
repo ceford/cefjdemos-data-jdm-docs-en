@@ -14,6 +14,7 @@ docs=jdocmanual=new-article-in-jdocmanual.md
 docs=jdocmanual=menu-items.md
 docs=jdocmanual=proxy-server.md
 docs=jdocmanual=changelog.md
+docs=jdocmanual=translation-analysis.md
 
 heading=jdoc-reference=JDOC Reference
 docs=jdoc-reference=jedl.md

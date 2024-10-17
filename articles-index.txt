@@ -12,6 +12,7 @@ jdocmanual=new-article-in-jdocmanual.md=jdocmanual?manual=docs&heading=jdocmanua
 jdocmanual=menu-items.md=jdocmanual?manual=docs&heading=jdocmanual&filename=menu-items.md
 jdocmanual=proxy-server.md=jdocmanual?manual=docs&heading=jdocmanual&filename=proxy-server.md
 jdocmanual=changelog.md=jdocmanual?manual=docs&heading=jdocmanual&filename=changelog.md
+jdocmanual=translation-analysis.md=jdocmanual?manual=docs&heading=jdocmanual&filename=translation-analysis.md
 
 jdoc-documentation=how-to-take-screenshots-for-joomla-documentation.md=https://docs.joomla.org/How_to_take_Screenshots_for_Joomla_Documentation
 jdoc-documentation=jdoc-hatnotes.md=https://docs.joomla.org/JDOC:Hatnotes
