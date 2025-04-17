@@ -396,11 +396,11 @@ You would have to do the following:
 Here is a list of don't do's.
 
 - Never translate the template's name. The template
-  {{[tip](https://docs.joomla.org/Template:Tip "Template:Tip")}} is
+  {{[tip](https://docs.joomla.org/Template:Tip)}} is
   called by the word 'tip' following the double set of curly brackets.
   If you translate the word tip, the translation would call a
   non-existent template name.
 - Never translate the variables used in a template, only the value
   assigned to the variable. In the example of the
-  {{[tip](https://docs.joomla.org/Template:Tip "Template:Tip")}}
+  {{[tip](https://docs.joomla.org/Template:Tip)}}
   template, the word 'title' is the variable.

@@ -16,7 +16,7 @@ inserting a simple reference.
 
 Use this notice to indicate a page or section is incomplete and missing
 key information. The
-{{[incomplete](https://docs.joomla.org/Template:Incomplete "Template:Incomplete")}}
+{{[incomplete](https://docs.joomla.org/Template:Incomplete)}}
 or {{<a href="https://docs.joomla.org/Template:Underconstruction"
 class="mw-redirect"
 title="Template:Underconstruction">underconstruction</a>}} are
@@ -26,7 +26,7 @@ class="mw-redirect"
 title="Template:Underconstruction">underconstruction</a>}} template is
 used to note the page is not finished, but a contributor will be
 completing the page in the very near future. Insert
-{{[incomplete](https://docs.joomla.org/Template:Incomplete "Template:Incomplete")}}
+{{[incomplete](https://docs.joomla.org/Template:Incomplete)}}
 to obtain the following notice:
 
 <img
@@ -55,9 +55,9 @@ content.
 href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;diff=cur"
 class="external text" target="_blank" rel="noreferrer noopener">last
 edited</a> by
-[Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig "User:Franz.wohlkoenig")
-([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig "User talk:Franz.wohlkoenig")\|
-[contribs](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig "Special:Contributions/Franz.wohlkoenig"))
+[Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig)
+([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig)\|
+[contribs](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig))
 13 months ago. *(<a
 href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;action=purge"
 class="external text" target="_blank"
@@ -68,7 +68,7 @@ rel="noreferrer noopener">Purge</a>)*</span>
 Use this notice should be used during **Doc Sprints** or if you will be
 editing a page for an extended period of time, e.g. more than 30
 minutes. Please don't forget to remove it when you are done. Insert
-{{[inuse](https://docs.joomla.org/Template:Inuse "Template:Inuse")}} at
+{{[inuse](https://docs.joomla.org/Template:Inuse)}} at
 the top of the page to obtain the following notice:
 
 <img
@@ -98,7 +98,7 @@ several hours, please remove this template, or replace it with
 {{<a href="https://docs.joomla.org/Template:Underconstruction"
 class="mw-redirect"
 title="Template:Underconstruction">underconstruction</a>}} or
-{{[incomplete](https://docs.joomla.org/Template:Incomplete "Template:Incomplete")}}.</span>
+{{[incomplete](https://docs.joomla.org/Template:Incomplete)}}.</span>
 
 ## Under Construction Notice
 
@@ -133,9 +133,9 @@ Once you're done with editing please replace
 {{<a href="https://docs.joomla.org/Template:Underconstruction"
 class="mw-redirect"
 title="Template:Underconstruction">underconstruction</a>}} and
-{{[inuse](https://docs.joomla.org/Template:Inuse "Template:Inuse")}}
+{{[inuse](https://docs.joomla.org/Template:Inuse)}}
 with
-{{[review](https://docs.joomla.org/Template:Review "Template:Review")}}.
+{{[review](https://docs.joomla.org/Template:Review)}}.
 This will add your document to the [Category:Needs
 review](https://docs.joomla.org/Category:Needs_review "Category:Needs review").
 
@@ -152,7 +152,7 @@ href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_t
 class="external text" target="_blank"
 rel="noreferrer noopener">contributing to it</a>.  
 <span class="small">More pages that need help similar to this one are
-[here](https://docs.joomla.org/Category:Needs_review "Category:Needs review").</span>
+[here](https://docs.joomla.org/Category:Needs_review).</span>
 <span class="small">**NOTE-If you feel the need is satistified, please
 remove this notice.**</span>*
 
@@ -177,7 +177,7 @@ href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_t
 class="external text" target="_blank"
 rel="noreferrer noopener">contributing to it</a>.  
 <span class="small">More pages that need help similar to this one are
-[here](https://docs.joomla.org/Category:Needs_more_content "Category:Needs more content").</span>
+[here](https://docs.joomla.org/Category:Needs_more_content).</span>
 <span class="small">**NOTE-If you feel the need is satistified, please
 remove this notice.**</span>*
 
@@ -199,7 +199,7 @@ href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_t
 class="external text" target="_blank"
 rel="noreferrer noopener">contributing to it</a>.  
 <span class="small">More pages that need help similar to this one are
-[here](https://docs.joomla.org/Category:Needs_images "Category:Needs images").</span>
+[here](https://docs.joomla.org/Category:Needs_images).</span>
 <span class="small">**NOTE-If you feel the need is satistified, please
 remove this notice.**</span>*
 
@@ -207,7 +207,7 @@ remove this notice.**</span>*
 
 To indicate availability of a class, method or some piece of
 functionality in or from a particular version of Joomla, you can use the
-{{[JVer](https://docs.joomla.org/Template:JVer "Template:JVer")}}
+{{[JVer](https://docs.joomla.org/Template:JVer)}}
 template. Only certain specific version numbers are supported:
 
 | Version       | Short icon                                                                                  | Long icon                                                                                                |
@@ -246,10 +246,10 @@ decoding="async" data-file-width="40" data-file-height="17" width="40"
 height="17" alt="Only available in Joomla 1.5" />
 
 Full documentation on the JVer template can be found
-[here](https://docs.joomla.org/Template:JVer/doc "Template:JVer/doc").
+[here](https://docs.joomla.org/Template:JVer/doc).
 
 You can also use the
-{{[JVer/multi](https://docs.joomla.org/Template:JVer/multi "Template:JVer/multi")}}
+{{[JVer/multi](https://docs.joomla.org/Template:JVer/multi)}}
 Template to place multiple version icons.
 
 | Versions         | Short icon                                                                                           | Long icon                                                                                                                   |
@@ -260,7 +260,7 @@ Template to place multiple version icons.
 
 For more information on use, specifically the long version icon use,
 please see,
-{{[JVer/multi](https://docs.joomla.org/Template:JVer/multi "Template:JVer/multi")}}
+{{[JVer/multi](https://docs.joomla.org/Template:JVer/multi)}}
 
 ## Table of Contents
 
@@ -281,7 +281,7 @@ Used to mark articles for deletion, merging or version splitting.
 ### Delete
 
 Use the template
-{{[delete](https://docs.joomla.org/Template:Delete "Template:Delete")\|}}
+{{[delete](https://docs.joomla.org/Template:Delete)\|}}
 on the very top of the page.
 
 <img
@@ -312,16 +312,16 @@ class="external text" target="_blank" rel="noreferrer noopener">the page
 history</a> before deleting.
 
 Last edit by
-[Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig "User:Franz.wohlkoenig")
-([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig "User talk:Franz.wohlkoenig")
+[Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig)
+([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig)
 ·
-[contrib](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig "Special:Contributions/Franz.wohlkoenig"))
+[contrib](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig))
 · Last edited on Mon, 13 Jun 2022 00:35:53 +0000
 
 ### Merge
 
 Use the template
-{{[merge](https://docs.joomla.org/Template:Merge "Template:Merge")\|title
+{{[merge](https://docs.joomla.org/Template:Merge)\|title
 of target page}} on the very top of the page.
 
 <img
@@ -342,7 +342,7 @@ title="JDOC talk:Local wiki templates (page does not exist)">Discuss</a>).
 ### JSplit
 
 Use the template
-{{[JSplit](https://docs.joomla.org/Template:JSplit "Template:JSplit")}}
+{{[JSplit](https://docs.joomla.org/Template:JSplit)}}
 on the very top of the page.
 
 <img
@@ -355,7 +355,7 @@ and 3.x
 
 It has been suggested that this article or section be split into
 specific version
-*[Namespaces](https://docs.joomla.org/JDOC:Namespaces "JDOC:Namespaces")*.
+*[Namespaces](https://docs.joomla.org/JDOC:Namespaces)*.
 (<a
 href="https://docs.joomla.org/index.php?title=JDOC_talk:Local_wiki_templates&amp;action=edit&amp;redlink=1"
 class="new"
@@ -367,12 +367,12 @@ months ago***.</span>
 ### Split
 
 Use the template
-{{[split](https://docs.joomla.org/Template:Split "Template:Split")\|}}
+{{[split](https://docs.joomla.org/Template:Split)\|}}
 on the very top of the page.
 
 |                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://docs.joomla.org/images/thumb/6/69/Split-icon.png/50px-Split-icon.png"  decoding="async" srcset="https://docs.joomla.org/images/thumb/6/69/Split-icon.png/75px-Split-icon.png 1.5x, https://docs.joomla.org/images/thumb/6/69/Split-icon.png/100px-Split-icon.png 2x" data-file-width="200" data-file-height="67" width="50" height="17" alt="Split-icon.png" />                                                                                                                                                       | It has been suggested that this article or section be split into multiple pages. *Reason: This page is too long and hard to follow. (<a href="https://docs.joomla.org/index.php?title=JDOC_talk:Local_wiki_templates&amp;action=edit&amp;redlink=1"       class="new" title="JDOC talk:Local wiki templates (page does not exist)">Click to  discuss</a>) this split suggestion. If split is not obvious, please allow split request to remain for 1 week pending discussions. <span class="small">This page was <a href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;diff=cur" class="external text" target="_blank" rel="noreferrer noopener">last edited</a> by [Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig "User:Franz.wohlkoenig") ([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig "User talk:Franz.wohlkoenig")\| [contribs](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig "Special:Contributions/Franz.wohlkoenig")) 13 months ago.</span>* <span class="small">(<a href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;action=purge" class="external text" target="_blank"  rel="noreferrer noopener">Purge</a>)</span> |
+| <img src="https://docs.joomla.org/images/thumb/6/69/Split-icon.png/50px-Split-icon.png"  decoding="async" srcset="https://docs.joomla.org/images/thumb/6/69/Split-icon.png/75px-Split-icon.png 1.5x, https://docs.joomla.org/images/thumb/6/69/Split-icon.png/100px-Split-icon.png 2x" data-file-width="200" data-file-height="67" width="50" height="17" alt="Split-icon.png" />                                                                                                                                                       | It has been suggested that this article or section be split into multiple pages. *Reason: This page is too long and hard to follow. (<a href="https://docs.joomla.org/index.php?title=JDOC_talk:Local_wiki_templates&amp;action=edit&amp;redlink=1"       class="new" title="JDOC talk:Local wiki templates (page does not exist)">Click to  discuss</a>) this split suggestion. If split is not obvious, please allow split request to remain for 1 week pending discussions. <span class="small">This page was <a href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;diff=cur" class="external text" target="_blank" rel="noreferrer noopener">last edited</a> by [Franz.wohlkoenig](https://docs.joomla.org/User:Franz.wohlkoenig "User:Franz.wohlkoenig") ([talk](https://docs.joomla.org/User_talk:Franz.wohlkoenig "User talk:Franz.wohlkoenig")\| [contribs](https://docs.joomla.org/Special:Contributions/Franz.wohlkoenig)) 13 months ago.</span>* <span class="small">(<a href="https://docs.joomla.org//docs.joomla.org/index.php?title=JDOC:Local_wiki_templates&amp;action=purge" class="external text" target="_blank"  rel="noreferrer noopener">Purge</a>)</span> |
 
 ### Redirect
 
@@ -383,7 +383,7 @@ To create a redirect for an old page to a new page:
 ## Version Notice
 
 If an article is written for a specific Joomla! Version, please use the
-{{[version](https://docs.joomla.org/Template:Version "Template:Version")}}
+{{[version](https://docs.joomla.org/Template:Version)}}
 template. It should be placed at the very top(first of all wiki markup)
 of an article so a person will see what version the page is relevant to.
 For example: **{{version\|1.6,1.7,2.5}}** will place this:  
@@ -396,13 +396,13 @@ This helps readers know what version the information references and aids
 in version icon(s) inclusion in lists of articles and tutorials. For
 more information and how to use extended features of this template,
 please see
-{{[version](https://docs.joomla.org/Template:Version "Template:Version")}}
+{{[version](https://docs.joomla.org/Template:Version)}}
 template documentation.
 
 ## Standard License Notice
 
 Insert
-{{[license/en](https://docs.joomla.org/Template:License/en "Template:License/en")}}
+{{[license/en](https://docs.joomla.org/Template:License/en)}}
 ('/{lang-code}')to obtain the following notice:  
 
 **License**
@@ -426,9 +426,9 @@ become equally annoying.
 
 To simplify your job try some of the following templates. Similar to the
 interwikis, they're true
-[keystroke-savers](https://docs.joomla.org/Category:Typing-aid_templates "Category:Typing-aid templates"):
+[keystroke-savers](https://docs.joomla.org/Category:Typing-aid_templates):
 
-- {{[jsite](https://docs.joomla.org/Template:Jsite "Template:Jsite")\|keyword}},
+- {{[jsite](https://docs.joomla.org/Template:Jsite)\|keyword}},
   for example:
 
 {{jsite}} =
@@ -443,9 +443,9 @@ rel="noreferrer noopener">forum.joomla.org</a>
 <a href="http://extensions.joomla.org/" class="external text"
 target="_blank" rel="noreferrer noopener">extensions.joomla.org</a>. For
 more see
-{{[jsite](https://docs.joomla.org/Template:Jsite "Template:Jsite")}}.
+{{[jsite](https://docs.joomla.org/Template:Jsite)}}.
 
-- {{[jforum](https://docs.joomla.org/Template:Jforum "Template:Jforum")\|keyword}},
+- {{[jforum](https://docs.joomla.org/Template:Jforum)\|keyword}},
   shortcuts for the many Working Group fora, i.e.
 
 {{jforum}} = <a href="https://forum.joomla.org/" class="external text"
@@ -458,7 +458,7 @@ title="jforum:303">Documentation forum</a>
 {{jforum\|devdoc}} =
 <a href="https://forum.joomla.org/viewforum.php?f=60" class="extiw"
 title="jforum:60">Developer Documentation forum</a>. For more see
-{{[jforum](https://docs.joomla.org/Template:Jforum "Template:Jforum")}}.
+{{[jforum](https://docs.joomla.org/Template:Jforum)}}.
 
 See also:
 

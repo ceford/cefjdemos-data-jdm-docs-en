@@ -19,7 +19,7 @@ this format too. It makes it easier on the translators when they start
 translating pages if the correct link for localisation is already used.
 
 In a normal links `[[Component]]` a user is taken to the
-[Component](https://docs.joomla.org/Component "Special:MyLanguage/Component")
+[Component](https://docs.joomla.org/Component)
 page when they click the link. If there is a translated version of the
 page, for example, French, the French page would be located at
 `[[Component/fr]]`.

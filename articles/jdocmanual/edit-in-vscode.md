@@ -43,14 +43,14 @@ git record of changes to your copy of the repository.
 To the left is the Explorer, a list of folders and files in the base folder.
 This example shows work in progress on this article:
 
-![vscode folder layout](../../../en/images/jdocmanual/edit-with-vscode-folder-view.png "The Folder Layout")
+![vscode folder layout](../../../en/images/jdocmanual/edit-with-vscode-folder-view.png)
 
 ## Edit an Article
 
 Open and close folders as you would in any file manager application. If you are
 new to VSCode you may wish to review the tutorials and adjust your preferences.
 Select an article to edit. If you need a reminder of GFM format rules see the
-[Markdown](jdocmanual?article=docs/jdocmanual/markdown "Markdown")
+[Markdown](jdocmanual?article=docs/jdocmanual/markdown)
 article. With an article active select Shift+cmd+V (on Mac) to open the
 Preview window. Note that internal links will not work in the Preview.
 
@@ -138,7 +138,7 @@ last English commit and update the German translation accordingly.
 
 Here is an example showing the timeline for a German translation:
 
-![vscode timeline view](../../../en/images/jdocmanual/edit-with-vscode-translation.png "The Timeline View")
+![vscode timeline view](../../../en/images/jdocmanual/edit-with-vscode-translation.png)
 
 In this example the author copied the English text into a new German document
 and then began translation paragraph by paragraph.

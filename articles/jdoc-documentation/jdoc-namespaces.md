@@ -63,7 +63,7 @@ to specific version of Joomla! Examples:
 
 - [Module
   Position](https://docs.joomla.org/Module_Position "Special:MyLanguage/Module Position")
-- [Template](https://docs.joomla.org/Template "Special:MyLanguage/Template")
+- [Template](https://docs.joomla.org/Template)
 
 An exception is pages which can be applied equally to current supported
 versions without the use of version separation sections. e.g. A section

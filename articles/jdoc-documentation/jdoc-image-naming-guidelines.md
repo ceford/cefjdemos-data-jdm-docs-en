@@ -2,7 +2,7 @@
 
 The image naming guidelines are to give documentation contributors a set
 guidelines about naming an uploaded image file *not used* by Joomla
-[Help screens](https://docs.joomla.org/Help_screens "Help screens").
+[Help screens](https://docs.joomla.org/Help_screens).
 
 These guidelines are not absolute but for informative purposes. They
 should only be used as a reference for helping contributors form a good

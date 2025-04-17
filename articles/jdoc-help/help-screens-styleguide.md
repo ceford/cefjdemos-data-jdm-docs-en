@@ -76,7 +76,7 @@ Articles</a> in the left, upper sidebar.</li>
   menu items. Consistent use of this terminology should help users.
 - For ease of rendering the right arrow( **→** ), **This
   pointing **→** at that** see the
-  {{[rarr](https://docs.joomla.org/Template:Rarr "Template:Rarr")}}
+  {{[rarr](https://docs.joomla.org/Template:Rarr)}}
   template for use. It was designed to make help screen **How to
   Access** instructions easy to write.
 
@@ -217,7 +217,7 @@ links without very good reason.
   class="external text" target="_blank" rel="noreferrer noopener">Help
   screen chunks</a>
   For usage information and examples see the following templates:
-  - {{[colheader](https://docs.joomla.org/Template:Colheader "Template:Colheader")\|Column
+  - {{[colheader](https://docs.joomla.org/Template:Colheader)\|Column
     name}} includes one of the *Help screen column header XYZ* chunks
   - {{<img src="https://docs.joomla.org/images/4/4d/Compat_icon_3_x.png"
     decoding="async" data-file-width="40" data-file-height="17" width="40"
@@ -225,22 +225,22 @@ links without very good reason.
   - <img src="https://docs.joomla.org/images/4/4d/Compat_icon_3_x.png"
     decoding="async" data-file-width="40" data-file-height="17" width="40"
     height="17" alt="Joomla 3.x" />
-  - {{[toolbaricon](https://docs.joomla.org/Template:Toolbaricon "Template:Toolbaricon")\|Action
+  - {{[toolbaricon](https://docs.joomla.org/Template:Toolbaricon)\|Action
     name}} is for *Help screen toolbar XYZ*
-  - {{[cpanelicon](https://docs.joomla.org/Template:Cpanelicon "Template:Cpanelicon")\|Icon
+  - {{[cpanelicon](https://docs.joomla.org/Template:Cpanelicon)\|Icon
     name}} is for *Help screen icon XYZ*
   - for proper categorisation read the instructions of
-    [Template:cathelp](https://docs.joomla.org/Template:Cathelp "Template:Cathelp")
+    [Template:cathelp](https://docs.joomla.org/Template:Cathelp)
     <span class="small">(<a
     href="https://docs.joomla.org/index.php?title=Template_talk:Cathelp&amp;action=edit&amp;redlink=1"
     class="new" title="Template talk:Cathelp (page does not exist)">talk</a>,
-    [backlinks](https://docs.joomla.org/Special:WhatLinksHere/Template:cathelp "Special:WhatLinksHere/Template:cathelp"),
+    [backlinks](https://docs.joomla.org/Special:WhatLinksHere/Template:cathelp),
     <a
     href="https://docs.joomla.org//docs.joomla.org/index.php?title=Template:Cathelp&amp;action=edit"
     class="external text" target="_blank" rel="noreferrer noopener">edit</a>)</span>
 - [Content
   editors](https://docs.joomla.org/Content_editors "Content editors")
-  - {{[Chunk30:TinyMCE](https://docs.joomla.org/Chunk30:TinyMCE "Chunk30:TinyMCE")}}
+  - {{[Chunk30:TinyMCE](https://docs.joomla.org/Chunk30:TinyMCE)}}
     for TinyMCE
   - {{[Chunk30:No
     editor](https://docs.joomla.org/Chunk30:No_editor "Chunk30:No editor")}}

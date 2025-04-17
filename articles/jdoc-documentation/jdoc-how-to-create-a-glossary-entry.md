@@ -1,7 +1,7 @@
 <!-- Filename: JDOC:How_to_Create_a_Glossary_Entry / Display title: How to Create a Glossary Entry -->
 
 The
-[glossary](https://docs.joomla.org/glossary "Special:MyLanguage/glossary")
+[glossary](https://docs.joomla.org/glossary)
 is an important reference, especially for users new to Joomla!.
 Therefore special attention should be paid to the creation of glossary
 entries. This tutorial will provide background information and guide you
@@ -38,7 +38,7 @@ in your browser. An editor window will open. Enter:
 
 This code will insert the contents of the chunk into the page and assign
 categories to the article. The
-[Glossary](https://docs.joomla.org/:Category:Glossary "Special:MyLanguage/:Category:Glossary")
+[Glossary](https://docs.joomla.org/:Category:Glossary)
 category is mandatory, otherwise the article will not be linked. You are
 free to add more categories. Note that, after inserting the chunk code,
 you may add additional contents. These contents will not be visible on

@@ -16,7 +16,7 @@ is quite a lot to read:
   Contribute](https://docs.joomla.org/JDOC:How_to_Contribute_to_Joomla!_Documentation "Special:MyLanguage/JDOC:How to Contribute to Joomla! Documentation")
   explains how to create a User Account and create a User Page. Please
   try some personal content creation before taking on a public document.
-- [Policies_and_guidelines](https://docs.joomla.org/JDOC:Policies_and_guidelines "Special:MyLanguage/JDOC:Policies and guidelines")
+- [Policies_and_guidelines](https://docs.joomla.org/JDOC:Policies_and_guidelines)
   has links to:
   - <a
     href="https://developer.joomla.org/en-gb-user-interface-text-guidelines/introduction.html"
@@ -48,7 +48,7 @@ it does not exist, or from typing in the browser URL bar. Example:
 Notice the `User:` part of the URL. It is a Namespace declaration that
 helps classify the Joomla Documentation. The Namespaces you should be
 aware of are J4.x:, Help4.x:, User: and Main: (which is omitted). See
-[Namespaces](https://docs.joomla.org/JDOC:Namespaces "Special:MyLanguage/JDOC:Namespaces")
+[Namespaces](https://docs.joomla.org/JDOC:Namespaces)
 for the complete list.
 
 Before a new page is created you will be asked to confirm that you wish

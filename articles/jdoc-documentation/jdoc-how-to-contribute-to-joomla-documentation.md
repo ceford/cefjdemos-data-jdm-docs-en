@@ -105,10 +105,10 @@ such as spelling corrections and grammar fixes are a tremendous help!
 2.  Have some fun and browse for articles which are redundant, out of
     version(i.e. 1.0 and 1.5), or need to be split up because of version
     specific information. Then feel free to make use of the
-    {{[delete](https://docs.joomla.org/Template:Delete "Template:Delete")}},
-    {{[merge](https://docs.joomla.org/Template:Merge "Template:Merge")}}
+    {{[delete](https://docs.joomla.org/Template:Delete)}},
+    {{[merge](https://docs.joomla.org/Template:Merge)}}
     or
-    {{[JSplit](https://docs.joomla.org/Template:JSplit "Template:JSplit")}}
+    {{[JSplit](https://docs.joomla.org/Template:JSplit)}}
     templates on the articles. *Click the previous template links to see
     how to use and apply them to articles you think need these marker
     templates. Add them to the very top of a page and the page is
@@ -148,9 +148,9 @@ needs](https://docs.joomla.org/Category:Joomla!_Wiki_need_pages "Special:MyLangu
 that are [under
 construction](https://docs.joomla.org/Category:Article_under_construction "Special:MyLanguage/Category:Article under construction"),
 or by marking pages for
-[deletion](https://docs.joomla.org/Template:Delete "Template:Delete"),
-[merging](https://docs.joomla.org/Template:Merge "Template:Merge") or
-[splitting](https://docs.joomla.org/Template:JSplit "Template:JSplit").
+[deletion](https://docs.joomla.org/Template:Delete),
+[merging](https://docs.joomla.org/Template:Merge) or
+[splitting](https://docs.joomla.org/Template:JSplit).
 For all maintenance tasks and ideas of how you can help, please visit
 our [Documentation Maintenance
 page](https://docs.joomla.org/JDOC:Maintenance_Tasks "Special:MyLanguage/JDOC:Maintenance Tasks").
@@ -210,7 +210,7 @@ Here are a few things to remember as a Joomla! Docs contributor.
   Mozilla Firefox browsers. They both have built-in spell checking which
   underlines a misspelled word.
 - Don't forget to add the
-  {{[inuse](https://docs.joomla.org/Template:Inuse "Template:Inuse")}}
+  {{[inuse](https://docs.joomla.org/Template:Inuse)}}
   template to an article you are going to be working on it for a long
   period of time, more than a minute. It helps to prevent editing
   conflicts.
@@ -249,7 +249,7 @@ pages, then you can use the following for help.
 <!-- -->
 
 - Get help on
-  [Glip](https://docs.joomla.org/RingCentral_(Glip) "Special:MyLanguage/RingCentral (Glip)")
+  [Glip](https://docs.joomla.org/RingCentral_(Glip))
   (we have 2 groups there: one for the Jdocs Translation Group and one
   for the JDocs Working group).
 - Post a question on an <a

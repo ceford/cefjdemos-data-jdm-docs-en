@@ -7,7 +7,7 @@ personal **stash** copy of the article. The following screenshot shows the first
 of a list of all articles in a Manual. The list is based on the English original. If English
 is selected as  the language then the **Translated** column is not displayed.
 
-![article stashes list](../../../en/images/jdocmanual/article-stashes.png "Article Stashes List")
+![article stashes list](../../../en/images/jdocmanual/article-stashes.png)
 
 The stash copy is stored in the database until it is deleted or committed and
 merged into the source. That allows you to come back to make changes over
@@ -31,7 +31,7 @@ only** data except for a new article in English. On creating a new stash in
 German the Display Title will be in English. If a translation already
 exists it will be whatever the previous translator set it to.
 
-![article edit](../../../en/images/jdocmanual/jdocmanual-article-edit.png "Article Edit")
+![article edit](../../../en/images/jdocmanual/jdocmanual-article-edit.png)
 
 The `Stash` tab shows the original English text. For a translation the English
 and translated texts are displayed side by side.
@@ -45,7 +45,7 @@ separately there.
 The following illustration shows a German translation with a translated article
 title.
 
-![article stash english and german](../../../en/images/jdocmanual/article-stash-german.png "Article Stash English and German")
+![article stash english and german](../../../en/images/jdocmanual/article-stash-german.png)
 
 The `English diff` tab shows the difference between the last two committed
 English versions. This is intended to help the translator see what has changed

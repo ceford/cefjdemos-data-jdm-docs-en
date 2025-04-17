@@ -42,7 +42,7 @@ Note that this argument is inapplicable in cases where only one other
 use exists. If the phrase "other uses" does not exist, it would appear
 no one would strongly favor including an article summary, so it's best
 to use a template such as
-{{[for](https://docs.joomla.org/Template:For "Template:For")}}.
+{{[for](https://docs.joomla.org/Template:For)}}.
 
 ## Placement
 
@@ -95,7 +95,7 @@ would visually clash with proximate images and templates.
 When two articles share the same title, the unambiguated article should
 include a hatnote with a link to the other article. It is not necessary
 to create a separate disambiguation page.
-{{[otheruses4](https://docs.joomla.org/Template:Otheruses4 "Template:Otheruses4")}}
+{{[otheruses4](https://docs.joomla.org/Template:Otheruses4)}}
 may be used for this.
 
 ### Linking to a Disambiguation Page
@@ -110,7 +110,7 @@ may be used for this.
 
 When a word has a primary meaning and three or more additional meanings,
 the hatnote should show a link to a disambiguation page.
-{{[otheruses](https://docs.joomla.org/Template:Otheruses "Template:Otheruses")}}
+{{[otheruses](https://docs.joomla.org/Template:Otheruses)}}
 may be used for this.
 
 ## Templates

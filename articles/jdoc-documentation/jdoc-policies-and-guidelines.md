@@ -89,7 +89,7 @@ guideline](https://docs.joomla.org/JDOC:Words_to_watch "JDOC:Words to watch")
 - Sections of long articles should be spun off into their own articles
   leaving a summary in its place
 - Summary sections are linked to the detailed article with a
-  {{[main](https://docs.joomla.org/Template:Main "Template:Main")}} or
+  {{[main](https://docs.joomla.org/Template:Main)}} or
   [comparable
   template](https://docs.joomla.org/Template:Otheruses_templates#For_.28other_topic.29 "Template:Otheruses templates")
 - To preserve links to the edit history of the moved text, the first
@@ -114,7 +114,7 @@ contact legal@opensourcematters.org. If you wish to report a possible
 violation of the license terms for the material on this site then please contact
 legal@opensourcematters.org.
 
-[Read the full license](https://docs.joomla.org/JEDL "JEDL") …
+[Read the full license](https://docs.joomla.org/JEDL) …
 
 ### Structure
 
@@ -133,7 +133,7 @@ Categories are for defining characteristics, and should be specific,
 title="wikipedia:WP:NPOV">neutral</a>, inclusive and follow certain
 conventions.
 
-- [Namespace](https://docs.joomla.org/JDOC:Namespaces "JDOC:Namespaces")
+- [Namespace](https://docs.joomla.org/JDOC:Namespaces)
 - …
 
 ### Hatnotes

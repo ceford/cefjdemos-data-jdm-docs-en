@@ -138,9 +138,9 @@ them but in some languages.
 groups work like all the other message groups. They have their own
 statistics and contain all the messages of the subgroups: in this case
 translatable pages. This functionality is currently in
-[Special:AggregateGroups](https://docs.joomla.org/Special:AggregateGroups "Special:AggregateGroups").
+[Special:AggregateGroups](https://docs.joomla.org/Special:AggregateGroups).
 Aggregate message groups are collapsed by default in
-[Special:LanguageStats](https://docs.joomla.org/Special:LanguageStats "Special:LanguageStats")
+[Special:LanguageStats](https://docs.joomla.org/Special:LanguageStats)
 in the group selector at Special:Translate.
 
 **Moving.** You can move translatable pages as you would move any other
@@ -178,7 +178,7 @@ unit pages, though it is not advisable.
 **Removal from translation**. It is also possible to unmark a page for
 translation. First you need to remove all translate tags from the page.
 Then you can use
-[Special:PageTranslation](https://docs.joomla.org/Special:PageTranslation "Special:PageTranslation")
+[Special:PageTranslation](https://docs.joomla.org/Special:PageTranslation)
 or follow the link in the top of translatable page to remove it from
 translation. This will remove any structure related to page translation,
 but leave all the existing pages in place, freely editable. This action
