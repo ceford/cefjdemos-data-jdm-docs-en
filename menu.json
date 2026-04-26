@@ -1,0 +1,52 @@
+{
+    "introduction.md" : "Introduction",
+    "notes.md" : "Notes",
+    "jdocmanual" : 
+    {
+        "introduction-to-jdocmanual.md" : "Introduction to Jdocmanual",
+        "jugl-2025-05-20.md" : "JUGL Presentation",
+        "installation-notes.md" : "Installation Notes",
+        "source-data.md" : "Source Data",
+        "how-to-contribute.md" : "How to Contribute",
+        "markdown.md" : "Markdown",
+        "edit-in-vscode.md" : "Edit with VSCode",
+        "edit-article-in-jdocmanual.md" : "Edit Article in Jdocmanual",
+        "new-article-in-jdocmanual.md" : "New Article in Jdocmanual",
+        "menu-items.md" : "Menu Items",
+        "proxy-server.md" : "Proxy Server",
+        "changelog.md" : "Changelog",
+        "translation-analysis.md" : "Translation Analysis"
+    },
+    "jdoc-reference" : 
+    {
+        "jedl.md" : "JEDL Licence",
+        "words-to-watch-table.md" : "Words to Watch"
+    },
+    "jdoc-documentation" :
+    {
+        "jdoc-how-to-contribute-to-joomla-documentation.md" : "How to Contribute to Joomla! Documentation",
+        "jdoc-policies-and-guidelines.md" : "Policies and guidelines",
+        "jdoc-namespaces.md" : "Namespaces",
+        "jdoc-image-naming-guidelines.md" : "Image naming guidelines",
+        "jdoc-local-wiki-templates.md" : "Local wiki templates",
+        "jdoc-hatnotes.md" : "Hatnotes",
+        "jdoc-page-markup-for-translation.md" : "Page Markup for Translation",
+        "jdoc-remote-documentation.md" : "Remote Documentation",
+        "jdoc-how-to-create-a-glossary-entry.md" : "How to Create a Glossary Entry",
+        "how-to-take-screenshots-for-joomla-documentation.md" : "How to take Screenshots for Joomla Documentation",
+        "taking-screenshots-how-to-enhance.md" : "Taking Screenshots - How to Enhance"
+    },
+    "jdoc-help-pages" :
+    {
+        "help-screens-styleguide.md" : "Help screens styleguide",
+        "jdoc-using-chunks-in-joomla-help-screens.md" : "Using chunks in Joomla help screens"
+
+    },
+    "jdoc-translation" :
+    {
+        "jdoc-page-translation-quickstart-guide.md" : "Page Translation Quickstart Guide",
+        "jdoc-page-translation-explained.md" : "Page Translation Explained",
+        "jdoc-translating-links.md" : "Translating Links",
+        "crowdin.md" : "Crowdin"
+    }
+}
