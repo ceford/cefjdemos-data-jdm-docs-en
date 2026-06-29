@@ -1,4 +1,11 @@
-<!-- Filename: JEDL / Display title: JEDL Licence -->
+<!--
+{
+  "source": "https://docs.joomla.org/JEDL",
+  "title": "JEDL Licence ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Below is a license granting you rights to use, modify and distribute
 documentation associated with the Joomla! project. It is designed to

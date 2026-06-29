@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Page_Translation_Quickstart_Guide / Display title: Page Translation Quickstart Guide -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Page_Translation_Quickstart_Guide",
+  "title": "Page Translation Quickstart Guide ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 This page should help get a translator quickly started with
 documentation translations. For the more detailed version of page

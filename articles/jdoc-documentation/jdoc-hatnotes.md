@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Hatnotes / Display title: Hatnotes -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Hatnotes",
+  "title": "Hatnotes ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Hatnotes look like this.
 

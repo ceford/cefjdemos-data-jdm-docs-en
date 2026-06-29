@@ -43,7 +43,7 @@ git record of changes to your copy of the repository.
 To the left is the Explorer, a list of folders and files in the base folder.
 This example shows work in progress on this article:
 
-![vscode folder layout](../../../en/images/jdocmanual/edit-with-vscode-folder-view.png)
+![vscode folder layout](../../../en/images/jdocmanual/edit-in-vscode/00-edit-with-vscode-folder-view.png)
 
 ## Edit an Article
 
@@ -65,7 +65,14 @@ The first line of the new file should contain a HTML comment containing the
 filename of the original source and a Display title. Like this:
 
 ```
-<!-- Filename: Edit_with_Vscode / Display title: Edit with VSCode -->
+<!--
+{
+  "source": "https://docs.joomla.org/Edit_with_Vscode",
+  "title": "Edit with VSCode ",
+  "description": "", 
+  "author": ""
+}
+-->
 ```
 This may seem strange! It is done this way because the document title is
 handled separately in MediaWiki, Docusaurus and othe display systems that
@@ -138,7 +145,7 @@ last English commit and update the German translation accordingly.
 
 Here is an example showing the timeline for a German translation:
 
-![vscode timeline view](../../../en/images/jdocmanual/edit-with-vscode-translation.png)
+![vscode timeline view](../../../en/images/jdocmanual/edit-in-vscode/01-edit-with-vscode-translation.png)
 
 In this example the author copied the English text into a new German document
 and then began translation paragraph by paragraph.

@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Page_Markup_for_Translation / Display title: Page Markup for Translation -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Page_Markup_for_Translation",
+  "title": "Page Markup for Translation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduction
 

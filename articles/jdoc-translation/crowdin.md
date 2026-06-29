@@ -1,4 +1,11 @@
-<!-- Filename: Crowdin / Display title: Crowdin -->
+<!--
+{
+  "source": "https://docs.joomla.org/Crowdin",
+  "title": "Crowdin ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## What is Crowdin?
 

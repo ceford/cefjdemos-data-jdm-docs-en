@@ -1,4 +1,11 @@
-<!-- Filename: How_to_take_Screenshots_for_Joomla_Documentation / Display title: How to take Screenshots for Joomla Documentation -->
+<!--
+{
+  "source": "https://docs.joomla.org/How_to_take_Screenshots_for_Joomla_Documentation",
+  "title": "How to take Screenshots for Joomla Documentation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduction
 

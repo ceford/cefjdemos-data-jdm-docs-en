@@ -1,4 +1,11 @@
-<!-- Filename: Menu_Items / Display title: Menu Items -->
+<!--
+{
+  "source": "https://docs.joomla.org/Menu_Items",
+  "title": "Menu Items ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Menu Structure
 

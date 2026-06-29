@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Namespaces / Display title: Namespaces -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Namespaces",
+  "title": "Namespaces ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 The Joomla! Documentation Wiki is divided into namespaces. What is a
 namespace? A group of pages put into collections of pages, which

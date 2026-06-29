@@ -1,4 +1,11 @@
-<!-- Filename: Help6.x:How_to_Contribute / Display title: How to Contribute -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help6.x:How_to_Contribute",
+  "title": "How to Contribute ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Where to Start
 
@@ -217,7 +224,14 @@ The first line in every file is important! It is a HTML comment line but the
 parts of it are used in output construction. It looks like this:
 
 ```
-<!-- Filename: Help4.x:Articles / Display title: Articles -->
+<!--
+{
+  "source": "https://docs.joomla.org/Help4.x:Articles",
+  "title": "Articles ",
+  "description": "", 
+  "author": ""
+}
+-->
 ```
 For Help files, the `Filename: Help4.x:Articles` part contains the key used by
 Joomla to find a Help page. the `Help4.x:` or `Help5.x:`  must be present but

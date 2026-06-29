@@ -1,4 +1,11 @@
-<!-- Filename: Installation_Notes / Display title: Installation Notes -->
+<!--
+{
+  "source": "https://docs.joomla.org/Installation_Notes",
+  "title": "Installation Notes ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## About Jdocmanual
 

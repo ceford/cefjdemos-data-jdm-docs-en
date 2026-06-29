@@ -1,4 +1,11 @@
-<!-- Filename: Changelog / Display title: Changelog -->
+<!--
+{
+  "source": "https://docs.joomla.org/Changelog",
+  "title": "Changelog ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Version 4.0.0
 

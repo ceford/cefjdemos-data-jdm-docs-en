@@ -1,4 +1,11 @@
-<!-- Filename: Introduction_to_Jdocmanual / Display title: Introduction to Jdocmanual -->
+<!--
+{
+  "source": "https://docs.joomla.org/Introduction_to_Jdocmanual",
+  "title": "Introduction to Jdocmanual ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## About Jdocmanual
 
@@ -19,7 +26,7 @@ any language for which a translation is available.
 Jdocmanual has a default Manual view for the Administrator and a Site view
 using the same code. This is the Administrator view:
 
-![manual view](../../../en/images/jdocmanual/jdocmanual.png)
+![manual view](../../../en/images/jdocmanual/introduction-to-jdocmanual/00-jdocmanual.png)
 
 ### Manual and Language Selection
 

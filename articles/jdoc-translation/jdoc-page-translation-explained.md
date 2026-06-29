@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Page_Translation_Explained / Display title: Page Translation Explained -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Page_Translation_Explained",
+  "title": "Page Translation Explained ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 More information on this topic is available at the <a
 href="https://www.mediawiki.org/wiki/Help:Extension:Translate/Page_translation_administration"

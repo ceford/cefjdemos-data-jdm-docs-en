@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Policies_and_guidelines / Display title: Policies and guidelines -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Policies_and_guidelines",
+  "title": "Policies and guidelines ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <table class="noprint infobox template-shortcut">
 

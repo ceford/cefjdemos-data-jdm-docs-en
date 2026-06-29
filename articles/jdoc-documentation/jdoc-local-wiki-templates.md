@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Local_wiki_templates / Display title: Local wiki templates -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Local_wiki_templates",
+  "title": "Local wiki templates ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 <span class="mw-selflink selflink">Local wiki templates</span> • [Local
 wiki

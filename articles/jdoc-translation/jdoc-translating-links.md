@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Translating_Links / Display title: Translating Links -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Translating_Links",
+  "title": "Translating Links ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduction
 

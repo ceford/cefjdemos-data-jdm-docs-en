@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:How_to_Create_a_Glossary_Entry / Display title: How to Create a Glossary Entry -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:How_to_Create_a_Glossary_Entry",
+  "title": "How to Create a Glossary Entry ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 The
 [glossary](https://docs.joomla.org/glossary)

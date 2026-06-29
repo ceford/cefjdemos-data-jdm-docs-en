@@ -1,4 +1,11 @@
-<!-- Filename: New_Article_in_Jdocmanual / Display title: New Article in Jdocmanual -->
+<!--
+{
+  "source": "https://docs.joomla.org/New_Article_in_Jdocmanual",
+  "title": "New Article in Jdocmanual ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Creating a New Article
 
@@ -10,7 +17,7 @@ or you may enter a new heading. The heading must consist of lower case
 alphanumeric words separated by dashes. You will also notice that the
 `Page ID` is 0 (zero) as the page does not exist.
 
-![new article form](../../../en/images/jdocmanual/article-new.png)
+![new article form](../../../en/images/jdocmanual/new-article-in-jdocmanual/00-article-new.png)
 
 The `Stash` tab contains an empty edit field as there was no original content
 with which to initialise it. However, an initial `Display title` entry is made

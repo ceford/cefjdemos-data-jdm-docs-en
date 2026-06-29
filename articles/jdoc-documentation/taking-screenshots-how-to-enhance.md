@@ -1,4 +1,11 @@
-<!-- Filename: Taking_Screenshots_%E2%80%93_How_To_Enhance / Display title: Taking Screenshots - How to Enhance -->
+<!--
+{
+  "source": "https://docs.joomla.org/Taking_Screenshots_%E2%80%93_How_To_Enhance",
+  "title": "Taking Screenshots - How to Enhance ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## How to take screenshots
 

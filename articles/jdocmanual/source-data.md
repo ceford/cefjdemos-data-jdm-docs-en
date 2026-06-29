@@ -1,4 +1,11 @@
-<!-- Filename: Source_Data / Display title: Source Data -->
+<!--
+{
+  "source": "https://docs.joomla.org/Source_Data",
+  "title": "Source Data ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Methods of Use
 

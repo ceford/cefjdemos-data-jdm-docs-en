@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Using_chunks_in_Joomla_help_screens / Display title: Using chunks in Joomla help screens -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Using_chunks_in_Joomla_help_screens",
+  "title": "Using chunks in Joomla help screens ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 This article documents how to use "chunks" when writing help screens for
 Joomla. Note that we are only using one set of help screens for entire

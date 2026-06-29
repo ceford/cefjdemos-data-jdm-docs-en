@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Image_naming_guidelines / Display title: Image naming guidelines -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Image_naming_guidelines",
+  "title": "Image naming guidelines ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 The image naming guidelines are to give documentation contributors a set
 guidelines about naming an uploaded image file *not used* by Joomla

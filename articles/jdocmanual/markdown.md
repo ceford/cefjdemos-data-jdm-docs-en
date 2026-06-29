@@ -1,4 +1,11 @@
-<!-- Filename: Markdown / Display title: Markdown -->
+<!--
+{
+  "source": "https://docs.joomla.org/Markdown",
+  "title": "Markdown ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## About Markdown
 
@@ -23,7 +30,7 @@ reference sheets available...
 Lines beginning with one or pound symbols (#) followed by a space. Six levels
 are available but levels 5 and 6 are rarely used. Examples:
 
-```bash
+```
 # Heading Level 1
 ## Heading Level 2
 ### Heading Level 3
@@ -38,7 +45,14 @@ The first line of all Jdocmanual articles should contain a html comment
 containing a Filename for the original source and a Display title. This
 article has this:
 ```
-<!-- Filename: Markdown / Display title: Markdown -->
+<!--
+{
+  "source": "https://docs.joomla.org/Markdown",
+  "title": "Markdown ",
+  "description": "", 
+  "author": ""
+}
+-->
 ```
 In the case of Help pages, the Filename is used by the Help proxy server
 when you select a Help button in any Joomla core administration page.

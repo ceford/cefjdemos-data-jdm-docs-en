@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:How_to_Contribute_to_Joomla!_Documentation / Display title: How to Contribute to Joomla! Documentation -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:How_to_Contribute_to_Joomla!_Documentation",
+  "title": "How to Contribute to Joomla! Documentation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 Joomla! Documentation is powered by the same
 <a href="https://en.wikipedia.org/wiki/wiki" class="extiw"

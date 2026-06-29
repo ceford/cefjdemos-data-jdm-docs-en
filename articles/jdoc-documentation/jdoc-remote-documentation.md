@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Remote_Documentation / Display title: Remote Documentation -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Remote_Documentation",
+  "title": "Remote Documentation ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Introduction
 

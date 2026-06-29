@@ -1,4 +1,11 @@
-<!-- Filename: JDOC:Words_to_watch / Display title: Words to Watch -->
+<!--
+{
+  "source": "https://docs.joomla.org/JDOC:Words_to_watch",
+  "title": "Words to Watch ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 **This is a 'living document' that can be updated as needed over time.**
 

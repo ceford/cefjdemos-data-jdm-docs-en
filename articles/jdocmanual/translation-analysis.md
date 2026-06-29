@@ -1,4 +1,11 @@
-<!-- Filename: Translation_Analysis / Display title: Translation Analysis -->
+<!--
+{
+  "source": "https://docs.joomla.org/Translation_Analysis",
+  "title": "Translation Analysis ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## PHP Developer Language Analysis
 

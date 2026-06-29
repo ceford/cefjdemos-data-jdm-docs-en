@@ -1,4 +1,11 @@
-<!-- Filename: Proxy_Server / Display title: Proxy Server -->
+<!--
+{
+  "source": "https://docs.joomla.org/Proxy_Server",
+  "title": "Proxy Server ",
+  "description": "", 
+  "author": ""
+}
+-->
 
 ## Delivering Help Pages
 
